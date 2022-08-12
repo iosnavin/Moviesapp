@@ -1,6 +1,5 @@
 //
 //  MovieDetailsEntity.swift
-//  MovieApp
 //
 //  Created by Naveen Reddy on 30.05.2021.
 //
